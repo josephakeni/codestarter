@@ -1,0 +1,51 @@
+ .header {
+    background-color:red;
+    padding:  25px;
+    text-align: center;
+    color: green;
+    font-size: xx-large;
+}
+
+.sentence2 {
+  padding: 25px;
+  text-align: center;
+  color: blue;
+  font-size: xx-large;
+  background-color: orange;
+  
+}
+
+.sentence3{
+  background-color: yellow;
+  padding: 25px;
+  text-align: center;
+  color: crimson;
+  font-size: xx-large; }
+
+.sentence4{
+  background-color: rgb(19, 165, 19);
+  padding: 25px;
+  text-align: center;
+  color: #ff0;
+  font-size: xx-large;}
+
+  .sentence5{
+    background-color: blue;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    font-size: xx-large;}
+    
+    .sentence6{
+      background-color: violet;
+      padding: 25px;
+      text-align: center;
+      color: orangered;
+      font-size: xx-large;}
+
+      .sentence7{
+        background-color: purple;
+        padding: 25px;
+        text-align: center;
+        color: lightseagreen;
+        font-size: xx-large;}
